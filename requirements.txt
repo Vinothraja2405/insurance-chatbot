@@ -1,5 +1,5 @@
-openai==1.44.1
-python-dotenv==1.0.1
-streamlit==1.38.0
-streamlit_chat==0.1.1
-thirdai==0.9.11
+openai
+python-dotenv
+streamlit
+streamlit_chat
+thirdai
