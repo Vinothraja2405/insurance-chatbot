@@ -1,3 +1,5 @@
 nltk==3.9.1
-openai==1.44.1
+openai==1.44.0
+python-dotenv==1.0.1
 streamlit==1.38.0
+thirdai==0.9.11
